@@ -41,7 +41,7 @@ dependencies:
   - pip:
       - biopython==1.79
       - cached-property==1.5.2
-      - h5py==3.1.0
+      - h5py==2.10.0
       - joblib==1.1.1
       - keras==2.2.4
       - keras-applications==1.0.8
